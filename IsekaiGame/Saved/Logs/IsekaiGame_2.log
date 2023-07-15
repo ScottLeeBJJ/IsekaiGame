@@ -1099,3 +1099,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.15-08.30.59:842][699]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.07.15-08.31.01:706][888]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
 [2023.07.15-08.31.06:088][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.15-08.32.06:490][925]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2509 files in 3872 folders with total size 164 MiB.
