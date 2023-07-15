@@ -1100,3 +1100,66 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.15-08.31.01:706][888]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
 [2023.07.15-08.31.06:088][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.07.15-08.32.06:490][925]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2509 files in 3872 folders with total size 164 MiB.
+[2023.07.15-08.32.37:240][258]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2023.07.15-08.32.37:240][258]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2023.07.15-08.32.37:243][258]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Temp/Untitled_1.Untitled_1:PersistentLevel.Pawn_UAID_D8BBC1CA20C8D59501_1971661991
+[2023.07.15-08.32.37:243][258]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Temp/Untitled_1.Untitled_1:PersistentLevel.Pawn_UAID_D8BBC1CA20C8D59501_1971661991
+[2023.07.15-08.32.43:720][766]Cmd: TRANSACTION UNDO
+[2023.07.15-08.32.43:720][766]LogEditorTransaction: Undo Move Elements
+[2023.07.15-08.32.43:800][766]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.15-08.32.45:232][851]Cmd: TRANSACTION UNDO
+[2023.07.15-08.32.45:232][851]LogEditorTransaction: Undo Create Actor
+[2023.07.15-08.32.45:281][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.15-08.33.00:253][274]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.07.15-08.33.00:253][274]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.07.15-08.33.00:255][274]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_D8BBC1CA20C8D59501_1994673992
+[2023.07.15-08.33.00:258][274]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_D8BBC1CA20C8D59501_1994673992
+[2023.07.15-08.34.22:190][ 58]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.15-08.34.23:675][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.15-08.34.33:431][985]LogViewport: Scene viewport resized to 1483x894, mode Windowed.
+[2023.07.15-08.34.33:497][987]LogViewport: Scene viewport resized to 1492x894, mode Windowed.
+[2023.07.15-08.34.33:544][989]LogViewport: Scene viewport resized to 1493x894, mode Windowed.
+[2023.07.15-08.34.33:615][991]LogViewport: Scene viewport resized to 1502x894, mode Windowed.
+[2023.07.15-08.34.33:656][993]LogViewport: Scene viewport resized to 1505x894, mode Windowed.
+[2023.07.15-08.34.33:738][995]LogViewport: Scene viewport resized to 1534x894, mode Windowed.
+[2023.07.15-08.34.33:796][997]LogViewport: Scene viewport resized to 1541x894, mode Windowed.
+[2023.07.15-08.34.33:945][  9]LogViewport: Scene viewport resized to 1544x894, mode Windowed.
+[2023.07.15-08.34.33:992][ 12]LogViewport: Scene viewport resized to 1545x894, mode Windowed.
+[2023.07.15-08.34.34:037][ 14]LogViewport: Scene viewport resized to 1549x894, mode Windowed.
+[2023.07.15-08.34.34:428][ 52]LogViewport: Scene viewport resized to 1552x894, mode Windowed.
+[2023.07.15-08.34.34:561][ 60]LogViewport: Scene viewport resized to 1558x894, mode Windowed.
+[2023.07.15-08.34.34:744][ 78]LogViewport: Scene viewport resized to 1562x894, mode Windowed.
+[2023.07.15-08.34.34:817][ 81]LogViewport: Scene viewport resized to 1569x894, mode Windowed.
+[2023.07.15-08.34.35:531][162]LogViewport: Scene viewport resized to 1571x894, mode Windowed.
+[2023.07.15-08.34.35:626][165]LogViewport: Scene viewport resized to 1573x894, mode Windowed.
+[2023.07.15-08.34.35:990][204]LogViewport: Scene viewport resized to 1572x894, mode Windowed.
+[2023.07.15-08.34.36:072][206]LogViewport: Scene viewport resized to 1570x894, mode Windowed.
+[2023.07.15-08.34.53:927][907]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.15-08.34.56:535][ 79]Cmd: TRANSACTION UNDO
+[2023.07.15-08.34.56:537][ 79]LogEditorTransaction: Undo Rename Actor
+[2023.07.15-08.34.56:617][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.15-08.35.35:687][436]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.15-08.36.25:348][436]Running D:/Games/UE_5.2/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="D:/Development/IsekaiGame/IsekaiGame/IsekaiGame.uproject" -game -rocket -progress
+[2023.07.15-08.36.25:454][436]Using bundled DotNet SDK version: 6.0.302
+[2023.07.15-08.36.25:454][436]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="D:/Development/IsekaiGame/IsekaiGame/IsekaiGame.uproject" -game -rocket -progress
+[2023.07.15-08.36.25:755][436]Log file: C:\Users\scott\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.07.15-08.36.26:258][436]
+[2023.07.15-08.36.26:258][436]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2023.07.15-08.36.26:258][436]See the log file for detailed information
+[2023.07.15-08.36.26:258][436]
+[2023.07.15-08.36.26:258][436]
+[2023.07.15-08.36.26:258][436]Generating VisualStudioCode project files:
+[2023.07.15-08.36.26:359][436]Discovering modules, targets and source code for project...
+[2023.07.15-08.36.31:385][436]Binding IntelliSense data...
+[2023.07.15-08.37.01:156][436]Binding IntelliSense data... 50%
+[2023.07.15-08.37.01:157][436]Binding IntelliSense data... 100%
+[2023.07.15-08.37.01:157][436]Writing project files...
+[2023.07.15-08.37.03:399][436]Writing project files... 100%
+[2023.07.15-08.37.10:132][436]LogSlate: Window 'Message' being destroyed
+[2023.07.15-08.37.10:137][436]Message dialog closed, result: Ok, title: Message, text: Project now includes sources, please close the editor and build from your IDE.
+[2023.07.15-08.37.14:521][436]LogSlate: Window 'Message' being destroyed
+[2023.07.15-08.37.14:526][436]Message dialog closed, result: Yes, title: Message, text: Successfully added class 'PlayerMovementScript', however you must recompile the 'IsekaiGame' module before it will appear in the Content Browser.
+
+Would you like to edit the code now?
+[2023.07.15-08.37.14:535][436]LogSlate: Window 'Add C++ Component' being destroyed
+[2023.07.15-08.37.14:545][436]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/IsekaiGame.PlayerMovementScript'

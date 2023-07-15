@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Development\\IsekaiGame\\IsekaiGame\\Source\\IsekaiGame\\IsekaiGame.Build.cs",
+		"D:\\Development\\IsekaiGame\\IsekaiGame\\Source\\IsekaiGame.Target.cs",
+		"D:\\Development\\IsekaiGame\\IsekaiGame\\Source\\IsekaiGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

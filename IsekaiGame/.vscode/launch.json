@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch IsekaiGame (Debug)",
+			"request": "launch",
+			"program": "D:\\Development\\IsekaiGame\\IsekaiGame\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "IsekaiGame Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "D:\\Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch IsekaiGame (DebugGame)",
+			"request": "launch",
+			"program": "D:\\Development\\IsekaiGame\\IsekaiGame\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "IsekaiGame Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "D:\\Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch IsekaiGame (Development)",
+			"request": "launch",
+			"program": "D:\\Development\\IsekaiGame\\IsekaiGame\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "IsekaiGame Win64 Development Build",
+			"args": [
+			],
+			"cwd": "D:\\Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch IsekaiGame (Test)",
+			"request": "launch",
+			"program": "D:\\Development\\IsekaiGame\\IsekaiGame\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "IsekaiGame Win64 Test Build",
+			"args": [
+			],
+			"cwd": "D:\\Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch IsekaiGame (Shipping)",
+			"request": "launch",
+			"program": "D:\\Development\\IsekaiGame\\IsekaiGame\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "IsekaiGame Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "D:\\Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch IsekaiGameEditor (Debug)",
+			"request": "launch",
+			"program": "D:\\Games\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "IsekaiGameEditor Win64 Debug Build",
+			"args": [
+				"D:\\Development\\IsekaiGame\\IsekaiGame\\IsekaiGame.uproject"
+			],
+			"cwd": "D:\\Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch IsekaiGameEditor (DebugGame)",
+			"request": "launch",
+			"program": "D:\\Games\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "IsekaiGameEditor Win64 DebugGame Build",
+			"args": [
+				"D:\\Development\\IsekaiGame\\IsekaiGame\\IsekaiGame.uproject"
+			],
+			"cwd": "D:\\Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch IsekaiGameEditor (Development)",
+			"request": "launch",
+			"program": "D:\\Games\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "IsekaiGameEditor Win64 Development Build",
+			"args": [
+				"D:\\Development\\IsekaiGame\\IsekaiGame\\IsekaiGame.uproject"
+			],
+			"cwd": "D:\\Games\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Games\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Games\\UE_5.2"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "D:\\Games\\UE_5.2\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=D:\\Development\\IsekaiGame\\IsekaiGame\\IsekaiGame.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "D:\\Games\\UE_5.2"
+		}
+	]
+}
